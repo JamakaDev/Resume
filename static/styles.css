@@ -1,0 +1,22 @@
+.info {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  height: 50%;
+  border: 5px solid blue;
+}
+
+#name {
+  /* border: 5px dashed rebeccapurple; */
+  margin: 5px;
+}
+
+#location {
+  /* border: 5px dashed brown; */
+  margin: 5px;
+}
+
+#phone {
+  /* border: 5px dashed forestgreen; */
+  margin: 5px;
+}
